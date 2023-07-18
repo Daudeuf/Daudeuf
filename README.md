@@ -2,7 +2,7 @@
 
 If you want to talk my private message is open on discord : XxClem76xX#2827
 
-![Statistiques]([https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true](https://github-readme-stats.vercel.app/api?username=Daudeuf&show_icons=true))
+![Statistiques](https://github-readme-stats.vercel.app/api?username=Daudeuf&show_icons=true)
 
 <!---
 Daudeuf/Daudeuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
