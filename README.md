@@ -5,11 +5,19 @@
 - ☕ Actuellement, je code en Java, HTML, CSS, JS, PHP
 
 ## Contact
-- 💬 [Discord](https://discord.com/users/clem.76#0)
+- 💬 Discord : [clem.76](https://discord.com/users/clem.76#0)
 <!--- 💼 [Lien vers votre profil LinkedIn ou site web] -->
 
 N'hésitez pas à explorer mes projets ci-dessous et à me contacter pour toute collaboration ou question.
 
+<div style="display: flex;">
+  <a href="https://github.com/Daudeuf/Daudeuf">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=daudeuf&show_icons=true&theme=radical&rank_icon=github" /><!--- rank_icon=percentile --->
+  </a>
+  <a href="https://github.com/Daudeuf/Daudeuf">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudeuf&layout=compact&langs_count=8&theme=radical" />
+  </a>
+</div>
 
 <!---👋 Hi, I’m @Daudeuf
 
