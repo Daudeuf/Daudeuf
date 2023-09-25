@@ -5,7 +5,7 @@
 - ☕ Actuellement, je code en Java, HTML, CSS, JS, PHP
 
 ## Contact
-- [![Discord Logo](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg)](https://discord.com/users/clem.76#0) clem.76
+- 💬 [Discord](https://discord.com/users/clem.76#0)
 <!--- 💼 [Lien vers votre profil LinkedIn ou site web] -->
 
 N'hésitez pas à explorer mes projets ci-dessous et à me contacter pour toute collaboration ou question.
