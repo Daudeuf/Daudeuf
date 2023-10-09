@@ -17,7 +17,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudeuf&layout=compact&langs_count=8&theme=radical" />
 </a>
 
-N'hésitez pas à explorer mes projets ci-dessous et à me contacter pour toute collaboration ou question.
+
+
+*N'hésitez pas à explorer mes projets ci-dessous et à me contacter pour toute collaboration ou question.*
 
 <!---👋 Hi, I’m @Daudeuf
 
