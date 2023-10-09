@@ -12,11 +12,11 @@
 
 ## Statistiques
 <a href="https://github.com/Daudeuf/Daudeuf">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daudeuf&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daudeuf&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&card_width=400" />
   <!--- rank_icon=percentile --->
 </a>
 <a href="https://github.com/Daudeuf/Daudeuf">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudeuf&layout=compact&langs_count=8&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudeuf&layout=compact&langs_count=8&theme=radical&card_width=400" />
 </a>
 
 <!---👋 Hi, I’m @Daudeuf
