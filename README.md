@@ -16,7 +16,7 @@
   <!--- rank_icon=percentile --->
 </a>
 <a href="https://github.com/Daudeuf/Daudeuf">
-  <img height="200" width="430" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudeuf&layout=compact&langs_count=8&theme=radical&card_width=430" />
+  <img height="200" width="430" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudeuf&layout=compact&langs_count=8&theme=radical&card_width=400" />
 </a>
 
 <!---👋 Hi, I’m @Daudeuf
