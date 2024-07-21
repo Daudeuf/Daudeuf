@@ -5,7 +5,7 @@
 - ☕ Actuellement, je code en Java, HTML, CSS, JS, PHP, SQL, C, LUA
 
 ## Contact
-- 💬 Discord : [clem.76](https://discord.com/users/clem.76#0)
+- 💬 Discord : [clem76](https://discord.com/users/clem76#0)
 <!--- 💼 [Lien vers votre profil LinkedIn ou site web] -->
 
 *N'hésitez pas à explorer mes projets ci-dessous et à me contacter pour toute collaboration ou question.*
@@ -19,7 +19,7 @@
 
 <!---👋 Hi, I’m @Daudeuf
 
-If you want to talk my private message is open on discord : clem.76
+If you want to talk my private message is open on discord : clem76
 
 
 
