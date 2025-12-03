@@ -10,7 +10,7 @@
 *N'hésitez pas à explorer mes projets ci-dessous et à me contacter pour toute question.*
 
 ## Statistiques
-<a href="https://github.com/Daudeuf?tab=overview&from=2004-12-01&to=2004-12-31">
+<a href="https://github.com/Daudeuf?tab=overview&from=2004-12-01&to=2004-12-31" style="text-decoration: none; color: inherit;">
   <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daudeuf&theme=2077" />
   <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daudeuf&theme=2077" />
 </a>
