@@ -11,6 +11,6 @@
 
 ## Statistiques
 <a href="https://github.com/Daudeuf?tab=overview&from=2004-12-01&to=2004-12-31">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=daudeuf&show_icons=true&theme=radical&rank_icon=github" />
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daudeuf&layout=compact&langs_count=8&theme=radical" />
+  <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daudeuf&theme=2077" />
+  <img height="200" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daudeuf&theme=2077" />
 </a>
